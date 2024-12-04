@@ -1,4 +1,4 @@
-# WBM_ResOps_Hydropower
+# WBM_ResOps_Code_Data
 Code, parameters, and data for hydrological and hydropower simulations
 doi 10.5281/zenodo.14251664
 
